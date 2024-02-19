@@ -1,6 +1,6 @@
 {
 	"name": "@gtramontina.com/elysia-authkit",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"module": "index.ts",
 	"type": "module",
 	"files": [
@@ -21,11 +21,11 @@
 		"@biomejs/biome": "1.5.3",
 		"@stryker-mutator/core": "8.2.3",
 		"@stryker-mutator/typescript-checker": "8.2.3",
-		"@types/bun": "latest"
+		"@types/bun": "1.0.5"
 	},
 	"peerDependencies": {
-		"@workos-inc/node": "^5.2.0",
-		"elysia": "^0.8.16",
-		"typescript": "^5.0.0"
+		"@workos-inc/node": "^6.0.0",
+		"elysia": "^0.8.17",
+		"typescript": "^5.3.3"
 	}
 }
